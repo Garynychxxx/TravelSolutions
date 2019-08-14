@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suit name="travelsolutiontutbytest">
+    <test name="tutbytest">
+        <group>
+            <run>
+                <include name="T!"/>
+            </run>
+        </group>
+        <classes>
+            <class name="com.travelsolution.test"/>
+        </classes>
+    </test>
+</suit>
